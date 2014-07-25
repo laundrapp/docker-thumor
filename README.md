@@ -1,2 +1,2 @@
-docker_base_files
+Thumbor in Docker
 =================
